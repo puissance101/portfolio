@@ -1,7 +1,7 @@
-#FOTABONG FUALEFAC PUISSANCE 
-#FE21A175
+# FOTABONG FUALEFAC PUISSANCE 
+# FE21A175
 
-# Getting Started with Create React App
+Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
